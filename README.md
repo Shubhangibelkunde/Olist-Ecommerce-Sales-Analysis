@@ -135,6 +135,6 @@ Olist_Ecommerce_Analysis/
 
 Linkedin - www.linkedin.com/in/shubhangi-rajmane-b24859219
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shubhangibelkunde/Olist-Ecommerce-Sales-Analysis)
+GitHub - https://github.com/Shubhangibelkunde/Olist-Ecommerce-Sales-Analysis
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shubhangibelkunde@gmail.com)
+Email - shubhangibelkunde@gmail.com
