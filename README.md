@@ -133,7 +133,7 @@ Olist_Ecommerce_Analysis/
 
 **Shubhangi Rajmane** — Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/shubhangi-rajmane-b24859219)
+Linkedin - www.linkedin.com/in/shubhangi-rajmane-b24859219
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shubhangibelkunde/Olist-Ecommerce-Sales-Analysis)
 
